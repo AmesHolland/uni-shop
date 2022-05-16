@@ -12,8 +12,6 @@
     "navigationBarBackgroundColor": "#C00000",
     "backgroundColor": "#FFFFFF"
   },
-<<<<<<< HEAD
-=======
   "tabBar": {
     "selectedColor": "#C00000",
     "list": [
@@ -43,6 +41,5 @@
       }
     ]
   },
->>>>>>> newBranch
   "usingComponents": {}
 }
