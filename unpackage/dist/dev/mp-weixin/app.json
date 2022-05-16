@@ -5,15 +5,21 @@
     "pages/cart/cart",
     "pages/my/my"
   ],
-  "subPackages": [],
+  "subPackages": [
+    {
+      "root": "subpkg",
+      "pages": [
+        "goods_detail/goods_detail",
+        "goods_list/goods_list"
+      ]
+    }
+  ],
   "window": {
     "navigationBarTextStyle": "white",
     "navigationBarTitleText": "一城",
     "navigationBarBackgroundColor": "#C00000",
     "backgroundColor": "#FFFFFF"
   },
-<<<<<<< HEAD
-=======
   "tabBar": {
     "selectedColor": "#C00000",
     "list": [
@@ -43,6 +49,5 @@
       }
     ]
   },
->>>>>>> newBranch
   "usingComponents": {}
 }
